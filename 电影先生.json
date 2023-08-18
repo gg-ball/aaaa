@@ -1,7 +1,16 @@
 
 {
     "sites": [
-     
+      {
+        "key": "drpy_js_小狗影院",
+        "name": "影视 | 小狗影院[js]",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小狗影院.js"
+      },
      {
     "key": "drpy_js_电影先生",
     "name": "影视 | 电影先生[js]",
@@ -553,16 +562,7 @@
         "filterable": 0,
         "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/无名小站.js"
       },
-      {
-        "key": "drpy_js_小狗影院",
-        "name": "影视 | 小狗影院[js]",
-        "type": 3,
-        "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小狗影院.js"
-      },
+     
       {
         "key": "drpy_js_酷客影院",
         "name": "影视 | 酷客影院[js]",
