@@ -1,16 +1,7 @@
 
 {
     "sites": [
-     {
-        "key": "drpy_js_91free",
-        "name": "影视 | 91free[js]",
-        "type": 3,
-        "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/91free.js"
-      },
+     
      {
     "key": "drpy_js_电影先生",
     "name": "影视 | 电影先生[js]",
@@ -20,6 +11,16 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://crx.20001027.com/c1ff50493509ac8e/zaira/fxjkz2.js"
+      },
+    {
+    "key": "drpy_js_91free",
+    "name": "影视 | 91free[js]",
+    "type": 3,
+    "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/91free.js"
       },
       {
         "key": "drpy_js_豆瓣",
